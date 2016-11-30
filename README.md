@@ -5,7 +5,7 @@ My movie trailer list. This project is part of Full Stack Developer Nanodegree f
 <h3>Requirements</h3>
 <ul>
   <li>Python (if not installed check: https://www.python.org)</li>
-</ul><br>
+</ul>
 
 <h3>Running the project</h3>
 Clone the project:
