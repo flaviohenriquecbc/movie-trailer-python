@@ -10,7 +10,7 @@ My movie trailer list. This project is part of Full Stack Developer Nanodegree f
 <h3>Running the project</h3>
 Clone the project:
 ```sh
-$ git clone https://github.com/flaviohenriquecbc/nanodegree-movie-trailer.git<br>
+$ git clone https://github.com/flaviohenriquecbc/nanodegree-movie-trailer.git
 ```
 
 <h3>Execute the program:</h3>
